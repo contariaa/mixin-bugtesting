@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "modid",
+	"version": "${version}",
+	"name": "Mixin Bugtesting",
+	"description": "",
+	"authors": [
+		"contaria"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.contaria.modid.MixinBugTesting"
+		]
+	},
+	"mixins": [
+		"modid.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.8",
+		"java": ">=21"
+	}
+}
