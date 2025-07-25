@@ -1,19 +1,20 @@
 {
-	"required": true,
-	"package": "me.contaria.modid.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"MissingFieldInitializerMixin1",
-		"MissingFieldInitializerMixin2",
-		"MissingFieldInitializerMixin3",
-		"MissingFieldInitializerMixin4",
-		"MissingFieldInitializerMixin5",
-		"MissingFieldInitializerMixin6"
-	],
-	"injectors": {
-		"defaultRequire": 1
-	},
-	"overwrites": {
-		"requireAnnotations": true
+  "required": true,
+  "package": "me.contaria.modid.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MissingFieldInitializerMixin1",
+    "MissingFieldInitializerMixin2",
+    "MissingFieldInitializerMixin3",
+    "MissingFieldInitializerMixin4",
+    "MissingFieldInitializerMixin5",
+    "MissingFieldInitializerMixin6",
+    "MissingFieldInitializerMixin7"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
 	}
 }
