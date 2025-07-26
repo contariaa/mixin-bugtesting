@@ -9,7 +9,8 @@
     "MissingFieldInitializerMixin4",
     "MissingFieldInitializerMixin5",
     "MissingFieldInitializerMixin6",
-    "MissingFieldInitializerMixin7"
+    "MissingFieldInitializerMixin7",
+    "MissingFieldInitializerMixin8"
   ],
   "injectors": {
     "defaultRequire": 1

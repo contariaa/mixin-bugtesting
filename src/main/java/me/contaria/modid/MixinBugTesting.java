@@ -15,5 +15,6 @@ public class MixinBugTesting implements ModInitializer {
         TestClass5.init();
         TestClass6.init();
         TestClass7.init();
+        TestClass8.init();
     }
 }
